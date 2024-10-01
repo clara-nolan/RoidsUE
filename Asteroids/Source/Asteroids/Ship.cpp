@@ -1,6 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
-#include "UObject/ConstructorHelpers.h"
 #include "Ship.h"
+#include "UObject/ConstructorHelpers.h"
 #include "Engine/World.h"
 #include "Components/InputComponent.h"
 // Sets default values
@@ -21,7 +21,7 @@ AShip::AShip()
 	ShipSphereComponent->SetLinearDamping(0.3);
 	ShipSphereComponent->SetAngularDamping(1);
 	ShipSphereComponent->SetConstraintMode(EDOFMode::XYPlane);
-
+	//test
 	static ConstructorHelpers::FObjectFinder<UBlueprint>
 		Bullet(TEXT("Blueprint'/Game/BulletBP.BulletBP'"));
 	if (Bullet.Object) {

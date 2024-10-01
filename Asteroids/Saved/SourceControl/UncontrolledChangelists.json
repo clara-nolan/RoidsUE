@@ -16,7 +16,12 @@
 				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/vehicle_playerShip.uasset",
 				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/vehicle_playerShip_orange_dff.uasset",
 				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/vehicle_playerShip_orange_nrm.uasset",
-				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/BulletBP.uasset"
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/BulletBP.uasset",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/AsteroidBP.uasset",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ExplosionBP.uasset",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ExplosionSound.uasset",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/explosion.uasset",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ScoreDisplay.uasset"
 			]
 		}
 	]

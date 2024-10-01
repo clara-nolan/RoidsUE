@@ -1719,3 +1719,1146 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.10.01-05.42.59:186][427]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.10.01-05.42.59:186][427]LogContentValidation: Display: Validating asset /Game/BulletBP.BulletBP
 [2024.10.01-05.42.59:186][427]AssetCheck: /Game/BulletBP Validating asset
+[2024.10.01-05.47.30:465][ 51]Running C:/Program Files/Epic Games/UE_5.4/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Asteroids.uproject" -game -rocket -progress
+[2024.10.01-05.47.30:598][ 51]Using bundled DotNet SDK version: 6.0.302
+[2024.10.01-05.47.30:598][ 51]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Asteroids.uproject" -game -rocket -progress
+[2024.10.01-05.47.31:102][ 51]Log file: C:\Users\clara\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.10.01-05.47.31:603][ 51]
+[2024.10.01-05.47.31:603][ 51]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64, TVOS.
+[2024.10.01-05.47.31:603][ 51]See the log file for detailed information
+[2024.10.01-05.47.31:604][ 51]
+[2024.10.01-05.47.31:604][ 51]
+[2024.10.01-05.47.31:604][ 51]Generating VisualStudio project files:
+[2024.10.01-05.47.31:704][ 51]Discovering modules, targets and source code for project...
+[2024.10.01-05.47.34:625][ 51]Binding IntelliSense data...
+[2024.10.01-05.48.11:850][ 51]Binding IntelliSense data... 100%
+[2024.10.01-05.48.11:850][ 51]Writing project files...
+[2024.10.01-05.48.15:706][ 51]Writing project files... 100%
+[2024.10.01-05.48.15:706][ 51]
+[2024.10.01-05.48.15:706][ 51]Generating QueryTargets data for editor...
+[2024.10.01-05.48.15:713][ 51]Total execution time: 45.06 seconds
+[2024.10.01-05.48.15:922][ 51]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.10.01-05.48.16:224][ 51]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.10.01-05.48.16:358][ 51]LogAutomationController: Ignoring very large delta of 48.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-05.48.27:745][523]LogUObjectHash: Compacting FUObjectHashTables data took   8.43ms
+[2024.10.01-05.48.29:810][523]LogSlate: Window 'Save Content' being destroyed
+[2024.10.01-05.48.29:827][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-05.48.30:000][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.01-05.48.30:074][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.01-05.48.30:098][523]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2024.10.01-05.48.30:099][523]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/MainLevel2B9558E64A0B5702007EF8A3B9E6044D.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/MainLevel.umap'
+[2024.10.01-05.48.30:137][523]LogFileHelpers: Saving map 'MainLevel' took 0.142
+[2024.10.01-05.48.30:151][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 322.808 ms (total: 1.00 sec)
+[2024.10.01-05.48.30:289][523]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.01-05.48.30:289][523]LogContentValidation: Enabled validators:
+[2024.10.01-05.48.30:289][523]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-05.48.30:289][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-05.48.30:289][523]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-05.48.30:290][523]LogContentValidation: Display: Validating asset /Game/MainLevel.MainLevel
+[2024.10.01-05.48.30:291][523]AssetCheck: /Game/MainLevel Validating asset
+[2024.10.01-05.48.30:312][523]LogAutomationController: Ignoring very large delta of 2.71 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-05.48.43:211][171]LogLiveCoding: Display:    Creating library C:\Users\clara\Documents\CIS5680\Asteroids\Asteroids\Binaries\Win64\UnrealEditor-Asteroids.patch_3.lib and object C:\Users\clara\Documents\CIS5680\Asteroids\Asteroids\Binaries\Win64\UnrealEditor-Asteroids.patch_3.exp
+[2024.10.01-05.48.43:485][176]LogClass: UPackage /Script/Asteroids Reload.
+[2024.10.01-05.48.43:486][176]LogClass: Could not find existing class Asteroid in package /Script/Asteroids for reload, assuming new or modified class
+[2024.10.01-05.48.43:764][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.10.01-05.48.44:631][177]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new
+[2024.10.01-05.48.44:631][177]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.10.01-05.54.56:732][ 59]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.01-05.54.56:799][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.01-05.54.56:823][ 59]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.10.01-05.54.56:863][ 59]PIE: Warning: Constraint in 'None' attempting to create a joint between objects that are both static.  No joint created.
+[2024.10.01-05.54.56:897][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071572s)
+[2024.10.01-05.54.56:897][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.075366s)
+[2024.10.01-05.54.57:346][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2024.10.01-05.54.57:386][ 59]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.01-05.54.57:448][ 59]LogPlayLevel: PIE: World Init took: (0.076868s)
+[2024.10.01-05.54.57:456][ 59]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.10.01-05.54.57:459][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.01-05.54.57:459][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.01-05.54.57:459][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.01-05.54.57:459][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.01-05.54.57:459][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.01-05.54.57:460][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.01-05.54.57:460][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.01-05.54.57:460][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.01-05.54.57:462][ 59]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.01-05.54.57:462][ 59]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.01-05.54.57:462][ 59]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.01-05.54.57:473][ 59]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.01-05.54.57:705][ 59]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.01-05.54.57:709][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.01-05.54.57:709][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.01-05.54.57:710][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.01-05.54.57:718][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.10.01-05.54.57:718][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.10.01-05.54.57:721][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.10.01-05.54.57:721][ 59]LogInit: FAudioDevice initialized with ID 9.
+[2024.10.01-05.54.57:721][ 59]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainLevel'.
+[2024.10.01-05.54.57:722][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.10.01-05.54.57:723][ 59]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.10.01-05.54.57:759][ 59]LogLoad: Game class is 'GameModeBase'
+[2024.10.01-05.54.57:784][ 59]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.10.01-01.54.57
+[2024.10.01-05.54.57:787][ 59]LogWorld: Bringing up level for play took: 0.025923
+[2024.10.01-05.54.57:804][ 59]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.10.01-05.54.57:844][ 59]PIE: Server logged in
+[2024.10.01-05.54.57:845][ 59]PIE: Play in editor total start time 1.073 seconds.
+[2024.10.01-05.55.06:496][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-05.55.06:496][566]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.10.01-05.55.06:505][566]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-05.55.06:508][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-05.55.06:511][566]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.01-05.55.06:511][566]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.01-05.55.06:534][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.01-05.55.06:542][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-05.55.06:611][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-05.55.06:614][566]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.10.01-05.55.06:615][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.10.01-05.55.06:621][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.10.01-05.55.06:696][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.10.01-05.55.07:086][567]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.10.01-05.55.07:992][603]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.10.01-05.55.26:782][481]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.10.01-05.55.26:782][481]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.10.01-05.58.39:795][493]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-05.58.39:822][493]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-05.58.44:823][785]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.10.01-05.59.02:322][802]LogLiveCoding: Display:    Creating library C:\Users\clara\Documents\CIS5680\Asteroids\Asteroids\Binaries\Win64\UnrealEditor-Asteroids.patch_4.lib and object C:\Users\clara\Documents\CIS5680\Asteroids\Asteroids\Binaries\Win64\UnrealEditor-Asteroids.patch_4.exp
+[2024.10.01-05.59.02:635][810]LogClass: UPackage /Script/Asteroids Reload.
+[2024.10.01-05.59.02:636][810]LogClass: UClass Asteroid Reload.
+[2024.10.01-05.59.02:638][810]LogClass: Could not find existing class Asteroid in package /Script/Asteroids for reload, assuming new or modified class
+[2024.10.01-05.59.02:640][810]LogClass: Function onHit is new or belongs to a modified class.
+[2024.10.01-05.59.02:680][810]Re-instancing Asteroid after reload.
+[2024.10.01-05.59.02:954][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.10.01-05.59.03:848][811]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.10.01-05.59.03:848][811]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.10.01-05.59.32:396][758]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.01-05.59.32:415][758]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.01-05.59.32:433][758]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.01-05.59.32:460][758]LogAutomationController: Ignoring very large delta of 9.75 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-05.59.32:472][759]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.01-05.59.44:069][826]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.10.01-05.59.44:130][826]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.01-05.59.51:299][201]LogContentBrowser: Attempting asset rename: NewBlueprint -> AsteroidBP
+[2024.10.01-05.59.51:548][201]LogMetaData: Removing '/Game/AsteroidBP.AsteroidBP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2024.10.01-05.59.51:548][201]LogMetaData: Removing '/Game/AsteroidBP.SKEL_AsteroidBP_C:UserConstructionScript' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2024.10.01-05.59.51:548][201]LogMetaData: Removing '/Game/AsteroidBP.SKEL_AsteroidBP_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2024.10.01-05.59.51:548][201]LogMetaData: Removing '/Game/AsteroidBP.AsteroidBP_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2024.10.01-05.59.51:548][201]LogMetaData: Removing '/Game/AsteroidBP.AsteroidBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2024.10.01-05.59.51:548][201]LogMetaData: Removing '/Game/AsteroidBP.AsteroidBP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2024.10.01-05.59.51:548][201]LogMetaData: Removing '/Game/AsteroidBP.AsteroidBP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2024.10.01-05.59.51:560][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-05.59.51:676][201]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AsteroidBP] ([2] browsable assets)...
+[2024.10.01-05.59.51:676][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/AsteroidBP]
+[2024.10.01-05.59.51:677][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AsteroidBP" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/AsteroidBP.uasset" SILENT=true
+[2024.10.01-05.59.51:700][201]LogWorldPartition: Can't find class descriptor '/Game/AsteroidBP.AsteroidBP_C' for saving '/Game/AsteroidBP.AsteroidBP_C'
+[2024.10.01-05.59.51:702][201]LogWorldPartition: Can't find class descriptor '/Game/AsteroidBP.AsteroidBP_C' for saving '/Game/AsteroidBP.AsteroidBP_C'
+[2024.10.01-05.59.51:704][201]LogSavePackage: Moving output files for package: /Game/AsteroidBP
+[2024.10.01-05.59.51:704][201]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/AsteroidBPCA12EA1D40B74BCFB404A8854CF72729.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/AsteroidBP.uasset'
+[2024.10.01-05.59.51:733][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.422 ms (total: 1.18 sec)
+[2024.10.01-05.59.51:954][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2024.10.01-05.59.52:058][201]LogUObjectHash: Compacting FUObjectHashTables data took  12.99ms
+[2024.10.01-05.59.52:089][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.10.01-05.59.52:223][201]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.01-05.59.52:223][201]LogContentValidation: Enabled validators:
+[2024.10.01-05.59.52:223][201]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-05.59.52:223][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-05.59.52:223][201]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-05.59.52:224][201]LogContentValidation: Display: Validating asset /Game/AsteroidBP.AsteroidBP
+[2024.10.01-05.59.52:224][201]AssetCheck: /Game/AsteroidBP Validating asset
+[2024.10.01-06.00.27:593][472]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AsteroidBP.AsteroidBP
+[2024.10.01-06.01.07:346][968]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/prop_asteroid_01.prop_asteroid_01
+[2024.10.01-06.01.07:682][968]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.10.01-06.01.31:530][691]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/prop_asteroid_01) ...
+[2024.10.01-06.01.32:995][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-06.01.33:132][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/prop_asteroid_01] ([1] browsable assets)...
+[2024.10.01-06.01.33:143][731]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/prop_asteroid_01.prop_asteroid_01]
+[2024.10.01-06.01.33:143][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/prop_asteroid_01]
+[2024.10.01-06.01.33:143][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prop_asteroid_01" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/prop_asteroid_01.uasset" SILENT=true
+[2024.10.01-06.01.33:161][731]LogSavePackage: Moving output files for package: /Game/prop_asteroid_01
+[2024.10.01-06.01.33:163][731]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/prop_asteroid_01B85E40EE435B8D9985F2909218F0EA9A.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/prop_asteroid_01.uasset'
+[2024.10.01-06.01.33:180][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.032 ms (total: 1.36 sec)
+[2024.10.01-06.01.33:322][731]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.01-06.01.33:322][731]LogContentValidation: Enabled validators:
+[2024.10.01-06.01.33:322][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-06.01.33:322][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-06.01.33:322][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-06.01.33:322][731]LogContentValidation: Display: Validating asset /Game/prop_asteroid_01.prop_asteroid_01
+[2024.10.01-06.01.33:322][731]AssetCheck: /Game/prop_asteroid_01 Validating asset
+[2024.10.01-06.01.59:946][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-06.02.00:085][225]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AsteroidBP] ([2] browsable assets)...
+[2024.10.01-06.02.00:097][225]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AsteroidBP.AsteroidBP]
+[2024.10.01-06.02.00:097][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/AsteroidBP]
+[2024.10.01-06.02.00:097][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AsteroidBP" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/AsteroidBP.uasset" SILENT=true
+[2024.10.01-06.02.00:101][225]LogWorldPartition: Can't find class descriptor '/Game/AsteroidBP.AsteroidBP_C' for saving '/Game/AsteroidBP.AsteroidBP_C'
+[2024.10.01-06.02.00:101][225]LogWorldPartition: Can't find class descriptor '/Game/AsteroidBP.AsteroidBP_C' for saving '/Game/AsteroidBP.AsteroidBP_C'
+[2024.10.01-06.02.00:102][225]LogSavePackage: Moving output files for package: /Game/AsteroidBP
+[2024.10.01-06.02.00:102][225]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/AsteroidBPC15009E4472AFFFB0CD5C9AD47751FE5.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/AsteroidBP.uasset'
+[2024.10.01-06.02.00:117][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.965 ms (total: 1.53 sec)
+[2024.10.01-06.02.00:257][225]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.01-06.02.00:257][225]LogContentValidation: Enabled validators:
+[2024.10.01-06.02.00:259][225]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-06.02.00:259][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-06.02.00:259][225]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-06.02.00:259][225]LogContentValidation: Display: Validating asset /Game/AsteroidBP.AsteroidBP
+[2024.10.01-06.02.00:259][225]AssetCheck: /Game/AsteroidBP Validating asset
+[2024.10.01-06.02.01:354][266]LogSlate: Window 'prop_asteroid_01' being destroyed
+[2024.10.01-06.02.01:369][266]LogSlate: Window 'prop_asteroid_01' being destroyed
+[2024.10.01-06.02.01:379][266]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-06.02.01:379][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.02.01:515][266]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-06.02.01:515][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.02.01:572][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.10.01-06.02.04:323][416]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.01-06.02.19:197][211]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AsteroidBP.AsteroidBP_C
+[2024.10.01-06.02.19:197][211]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AsteroidBP.AsteroidBP_C
+[2024.10.01-06.02.19:203][211]LogActorFactory: Actor Factory spawned Blueprint /Game/AsteroidBP.AsteroidBP as actor: AsteroidBP_C /Game/MainLevel.MainLevel:PersistentLevel.AsteroidBP_C_0
+[2024.10.01-06.02.19:207][211]LogActorFactory: Actor Factory spawned Blueprint /Game/AsteroidBP.AsteroidBP as actor: AsteroidBP_C /Game/MainLevel.MainLevel:PersistentLevel.AsteroidBP_C_0
+[2024.10.01-06.02.28:814][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.10.01-06.02.28:818][704]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2024.10.01-06.02.28:828][704]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AsteroidBP.AsteroidBP_C
+[2024.10.01-06.02.28:828][704]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AsteroidBP.AsteroidBP_C
+[2024.10.01-06.02.28:832][704]LogActorFactory: Actor Factory spawned Blueprint /Game/AsteroidBP.AsteroidBP as actor: AsteroidBP_C /Game/MainLevel.MainLevel:PersistentLevel.AsteroidBP_C_1
+[2024.10.01-06.02.28:833][704]LogActorFactory: Actor Factory spawned Blueprint /Game/AsteroidBP.AsteroidBP as actor: AsteroidBP_C /Game/MainLevel.MainLevel:PersistentLevel.AsteroidBP_C_1
+[2024.10.01-06.02.55:529][ 50]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.01-06.02.55:542][ 50]LogPlayLevel: [PlayLevel] Compiling AsteroidBP before play...
+[2024.10.01-06.02.55:596][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.01-06.02.55:601][ 50]LogPlayLevel: PlayLevel: Blueprint regeneration took 59 ms (1 blueprints)
+[2024.10.01-06.02.55:601][ 50]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.10.01-06.02.55:601][ 50]PIE: Warning: Constraint in 'None' attempting to create a joint between objects that are both static.  No joint created.
+[2024.10.01-06.02.55:603][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002014s)
+[2024.10.01-06.02.55:603][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.002059s)
+[2024.10.01-06.02.55:627][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.10.01-06.02.55:629][ 50]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.01-06.02.55:630][ 50]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2024.10.01-06.02.55:635][ 50]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.10.01-06.02.55:635][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.01-06.02.55:635][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.01-06.02.55:635][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.01-06.02.55:635][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.01-06.02.55:635][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.01-06.02.55:635][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.01-06.02.55:635][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.01-06.02.55:635][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.01-06.02.55:635][ 50]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.01-06.02.55:635][ 50]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.01-06.02.55:635][ 50]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.01-06.02.55:638][ 50]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.01-06.02.55:836][ 50]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.01-06.02.55:837][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.01-06.02.55:837][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.01-06.02.55:837][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.01-06.02.55:838][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.10.01-06.02.55:838][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.10.01-06.02.55:839][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.10.01-06.02.55:840][ 50]LogInit: FAudioDevice initialized with ID 10.
+[2024.10.01-06.02.55:840][ 50]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainLevel'.
+[2024.10.01-06.02.55:840][ 50]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.10.01-06.02.55:840][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.10.01-06.02.55:845][ 50]LogLoad: Game class is 'GameModeBase'
+[2024.10.01-06.02.55:846][ 50]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.10.01-02.02.55
+[2024.10.01-06.02.55:846][ 50]LogWorld: Bringing up level for play took: 0.000870
+[2024.10.01-06.02.55:849][ 50]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.10.01-06.02.55:857][ 50]PIE: Server logged in
+[2024.10.01-06.02.55:858][ 50]PIE: Play in editor total start time 0.321 seconds.
+[2024.10.01-06.03.05:292][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-06.03.05:292][601]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.10.01-06.03.05:294][601]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-06.03.05:294][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.03.05:294][601]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.01-06.03.05:294][601]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.01-06.03.05:298][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.01-06.03.05:305][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.03.05:329][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-06.03.05:329][601]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.10.01-06.03.05:330][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.10.01-06.03.05:333][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.10.01-06.03.05:343][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.10.01-06.03.05:685][602]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.10.01-06.03.07:036][657]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-06.03.07:068][657]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-06.03.08:927][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-06.03.09:059][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AsteroidBP] ([2] browsable assets)...
+[2024.10.01-06.03.09:059][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/AsteroidBP]
+[2024.10.01-06.03.09:059][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AsteroidBP" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/AsteroidBP.uasset" SILENT=true
+[2024.10.01-06.03.09:063][748]LogWorldPartition: Can't find class descriptor '/Game/AsteroidBP.AsteroidBP_C' for saving '/Game/AsteroidBP.AsteroidBP_C'
+[2024.10.01-06.03.09:063][748]LogWorldPartition: Can't find class descriptor '/Game/AsteroidBP.AsteroidBP_C' for saving '/Game/AsteroidBP.AsteroidBP_C'
+[2024.10.01-06.03.09:064][748]LogSavePackage: Moving output files for package: /Game/AsteroidBP
+[2024.10.01-06.03.09:064][748]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/AsteroidBP150555184A6630F8CA013E89ADEE30FE.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/AsteroidBP.uasset'
+[2024.10.01-06.03.09:082][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.296 ms (total: 1.69 sec)
+[2024.10.01-06.03.09:220][748]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.01-06.03.09:220][748]LogContentValidation: Enabled validators:
+[2024.10.01-06.03.09:220][748]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-06.03.09:220][748]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-06.03.09:220][748]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-06.03.09:220][748]LogContentValidation: Display: Validating asset /Game/AsteroidBP.AsteroidBP
+[2024.10.01-06.03.09:220][748]AssetCheck: /Game/AsteroidBP Validating asset
+[2024.10.01-06.03.49:616][952]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.01-06.03.49:630][952]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.01-06.03.49:632][952]LogShaderCompilers: Display: ================================================
+[2024.10.01-06.03.49:632][952]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.01-06.03.49:633][952]LogShaderCompilers: Display: Total job queries 242, among them cache hits 39 (16.12%), DDC hits 179 (73.97%), Duplicates 5 (2.07%)
+[2024.10.01-06.03.49:633][952]LogShaderCompilers: Display: Tracking 198 distinct input hashes that result in 177 distinct outputs (89.39%)
+[2024.10.01-06.03.49:633][952]LogShaderCompilers: Display: RAM used: 5.97 MiB of 819.20 MiB budget. Usage: 0.73%
+[2024.10.01-06.03.49:633][952]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.01-06.03.49:633][952]LogShaderCompilers: Display: Shaders Compiled: 19
+[2024.10.01-06.03.49:633][952]LogShaderCompilers: Display: Jobs assigned 19, completed 19 (100%)
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display: Average time worker was idle: 1.05 s
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display: Job execution time: average 1.63 s, max 2.97 s
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display: Job life time (pending + execution): average 1.69 s, max 3.05
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display: Shader code size: average 35.673 KiB, min 27.684 KiB, max 46.516 KiB
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.62 s
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display: Jobs were issued in 19 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display: Average processing rate: 2.49 jobs/sec
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display: Total thread time: 19.572 s
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display: Total thread preprocess time: 5.986 s
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display: Percentage time preprocessing: 30.59%
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display: Effective parallelization: 2.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 1.08 sec, max 1.17 sec, min 0.95 sec)
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.94 sec, max 0.96 sec, min 0.92 sec)
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.86 sec, max 0.89 sec, min 0.84 sec)
+[2024.10.01-06.03.49:634][952]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.78 sec, max 0.82 sec, min 0.74 sec)
+[2024.10.01-06.03.49:635][952]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    2 times, average 0.78 sec, max 0.83 sec, min 0.73 sec)
+[2024.10.01-06.03.49:635][952]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.01-06.03.49:635][952]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.50% of total time (compiled    3 times, average 1.08 sec, max 1.17 sec, min 0.95 sec)
+[2024.10.01-06.03.49:635][952]LogShaderCompilers: Display:                                                  FVelocityPS - 11.73% of total time (compiled    3 times, average 0.77 sec, max 0.83 sec, min 0.68 sec)
+[2024.10.01-06.03.49:635][952]LogShaderCompilers: Display:                                                  FVelocityVS - 11.34% of total time (compiled    3 times, average 0.74 sec, max 0.98 sec, min 0.45 sec)
+[2024.10.01-06.03.49:635][952]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.33% of total time (compiled    3 times, average 0.74 sec, max 0.85 sec, min 0.63 sec)
+[2024.10.01-06.03.49:635][952]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 9.58% of total time (compiled    2 times, average 0.94 sec, max 0.96 sec, min 0.92 sec)
+[2024.10.01-06.03.49:635][952]LogShaderCompilers: Display: === Material stats ===
+[2024.10.01-06.03.49:635][952]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.10.01-06.03.49:635][952]LogShaderCompilers: Display: Materials Translated:    121
+[2024.10.01-06.03.49:635][952]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.10.01-06.03.49:635][952]LogShaderCompilers: Display: Material Translation Only: 0.05 s (40%)
+[2024.10.01-06.03.49:635][952]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.10.01-06.03.49:636][952]LogShaderCompilers: Display: Material Cache Hits: 21 (17%)
+[2024.10.01-06.03.49:636][952]LogShaderCompilers: Display: ================================================
+[2024.10.01-06.03.49:640][952]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.01-06.03.49:646][952]LogAutomationController: Ignoring very large delta of 6.08 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-06.03.49:656][953]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.01-06.03.53:928][201]LogContentBrowser: Attempting asset rename: NewBlueprint -> ExplosionBP
+[2024.10.01-06.03.53:937][201]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.01-06.03.54:952][252]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ExplosionBP.ExplosionBP
+[2024.10.01-06.04.34:689][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-06.04.34:816][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ExplosionBP] ([2] browsable assets)...
+[2024.10.01-06.04.34:816][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExplosionBP]
+[2024.10.01-06.04.34:816][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExplosionBP" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ExplosionBP.uasset" SILENT=true
+[2024.10.01-06.04.34:822][531]LogSavePackage: Moving output files for package: /Game/ExplosionBP
+[2024.10.01-06.04.34:822][531]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/ExplosionBP598388F54FB4F1AF80F384B11D38CC78.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ExplosionBP.uasset'
+[2024.10.01-06.04.34:840][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.937 ms (total: 1.84 sec)
+[2024.10.01-06.04.34:969][531]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.01-06.04.34:969][531]LogContentValidation: Enabled validators:
+[2024.10.01-06.04.34:969][531]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-06.04.34:969][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-06.04.34:969][531]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-06.04.34:969][531]LogContentValidation: Display: Validating asset /Game/ExplosionBP.ExplosionBP
+[2024.10.01-06.04.34:969][531]AssetCheck: /Game/ExplosionBP Validating asset
+[2024.10.01-06.04.39:376][695]LogSlate: Window 'ExplosionBP' being destroyed
+[2024.10.01-06.04.39:388][695]LogSlate: Window 'ExplosionBP' being destroyed
+[2024.10.01-06.04.39:396][695]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-06.04.39:396][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.04.39:465][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.01-06.04.40:981][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-06.04.41:096][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ExplosionBP] ([2] browsable assets)...
+[2024.10.01-06.04.41:096][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExplosionBP]
+[2024.10.01-06.04.41:096][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExplosionBP" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ExplosionBP.uasset" SILENT=true
+[2024.10.01-06.04.41:100][783]LogSavePackage: Moving output files for package: /Game/ExplosionBP
+[2024.10.01-06.04.41:101][783]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/ExplosionBP5F3A9B524F2833FE3535518CA26E9C47.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ExplosionBP.uasset'
+[2024.10.01-06.04.41:116][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.631 ms (total: 1.97 sec)
+[2024.10.01-06.04.41:256][783]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.01-06.04.41:256][783]LogContentValidation: Enabled validators:
+[2024.10.01-06.04.41:256][783]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-06.04.41:256][783]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-06.04.41:256][783]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-06.04.41:256][783]LogContentValidation: Display: Validating asset /Game/ExplosionBP.ExplosionBP
+[2024.10.01-06.04.41:257][783]AssetCheck: /Game/ExplosionBP Validating asset
+[2024.10.01-06.05.01:746][ 70]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2024.10.01-06.05.01:763][ 70]LogContentBrowser: Creating deferred item: NewSoundCue
+[2024.10.01-06.05.01:781][ 71]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundCue).
+[2024.10.01-06.05.05:280][147]LogContentBrowser: Attempting asset rename: NewSoundCue -> NewSoundCue
+[2024.10.01-06.05.05:293][147]LogContentBrowser: End creating deferred item NewSoundCue
+[2024.10.01-06.05.11:559][432]LogContentBrowser: Attempting asset rename: NewSoundCue -> ExplosionSound
+[2024.10.01-06.05.11:601][432]LogMetaData: Removing '/Game/ExplosionSound.ExplosionSound:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/NewSoundCue.PackageMetaData'
+[2024.10.01-06.05.11:602][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-06.05.11:718][432]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ExplosionSound] ([1] browsable assets)...
+[2024.10.01-06.05.11:718][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExplosionSound]
+[2024.10.01-06.05.11:718][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExplosionSound" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ExplosionSound.uasset" SILENT=true
+[2024.10.01-06.05.11:720][432]LogSavePackage: Moving output files for package: /Game/ExplosionSound
+[2024.10.01-06.05.11:720][432]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/ExplosionSoundE81DD3184AE892311BC988B2E14FED2D.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ExplosionSound.uasset'
+[2024.10.01-06.05.11:735][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.019 ms (total: 2.11 sec)
+[2024.10.01-06.05.11:771][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.10.01-06.05.11:798][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.10.01-06.05.11:824][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.01-06.05.11:948][432]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.01-06.05.11:948][432]LogContentValidation: Enabled validators:
+[2024.10.01-06.05.11:948][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-06.05.11:949][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-06.05.11:949][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-06.05.11:949][432]LogContentValidation: Display: Validating asset /Game/ExplosionSound.ExplosionSound
+[2024.10.01-06.05.11:949][432]AssetCheck: /Game/ExplosionSound Validating asset
+[2024.10.01-06.05.25:035][665]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/clara/Documents/CIS5680/Unity Tutorial Assets2/explosion.wav)
+[2024.10.01-06.05.25:059][665]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave explosion...
+[2024.10.01-06.05.25:069][665]LogAudio: Display: Chunk stats for (SoundWave /Game/explosion.explosion: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=15839 bytes, ChunkN=0)
+[2024.10.01-06.05.25:077][665]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave explosion...
+[2024.10.01-06.05.25:081][665]LogAudio: Display: Chunk stats for (SoundWave /Game/explosion.explosion: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=15839 bytes, ChunkN=0)
+[2024.10.01-06.05.25:104][665]LogAutomationController: Ignoring very large delta of 2.44 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-06.05.29:255][884]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/ExplosionSound.ExplosionSound
+[2024.10.01-06.06.07:666][732]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Explosion01...
+[2024.10.01-06.06.07:684][732]LogAudio: Display: Chunk stats for (SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=40269 bytes, ChunkN=0)
+[2024.10.01-06.06.10:493][810]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/ExplosionSound.ExplosionSound was zero and has changed. Consider manually Re-saving the asset
+[2024.10.01-06.06.16:864][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-06.06.16:998][866]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ExplosionSound] ([1] browsable assets)...
+[2024.10.01-06.06.16:998][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExplosionSound]
+[2024.10.01-06.06.16:998][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExplosionSound" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ExplosionSound.uasset" SILENT=true
+[2024.10.01-06.06.17:002][866]LogSavePackage: Moving output files for package: /Game/ExplosionSound
+[2024.10.01-06.06.17:003][866]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/ExplosionSound959594C84F36C2D5D90302838510EC3B.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ExplosionSound.uasset'
+[2024.10.01-06.06.17:020][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.061 ms (total: 2.26 sec)
+[2024.10.01-06.06.17:172][866]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.01-06.06.17:172][866]LogContentValidation: Enabled validators:
+[2024.10.01-06.06.17:172][866]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-06.06.17:172][866]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-06.06.17:172][866]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-06.06.17:172][866]LogContentValidation: Display: Validating asset /Game/ExplosionSound.ExplosionSound
+[2024.10.01-06.06.17:172][866]AssetCheck: /Game/ExplosionSound Validating asset
+[2024.10.01-06.06.18:654][932]LogSlate: Window 'ExplosionSound' being destroyed
+[2024.10.01-06.06.18:682][932]LogSlate: Window 'ExplosionSound' being destroyed
+[2024.10.01-06.06.49:700][ 51]LogShaderCompilers: Display: ================================================
+[2024.10.01-06.06.49:700][ 51]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.01-06.06.49:700][ 51]LogShaderCompilers: Display: Total job queries 276, among them cache hits 39 (14.13%), DDC hits 179 (64.86%), Duplicates 5 (1.81%)
+[2024.10.01-06.06.49:700][ 51]LogShaderCompilers: Display: Tracking 232 distinct input hashes that result in 205 distinct outputs (88.36%)
+[2024.10.01-06.06.49:700][ 51]LogShaderCompilers: Display: RAM used: 6.81 MiB of 819.20 MiB budget. Usage: 0.83%
+[2024.10.01-06.06.49:700][ 51]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.01-06.06.49:700][ 51]LogShaderCompilers: Display: Shaders Compiled: 53
+[2024.10.01-06.06.49:700][ 51]LogShaderCompilers: Display: Jobs assigned 53, completed 53 (100%)
+[2024.10.01-06.06.49:700][ 51]LogShaderCompilers: Display: Average time worker was idle: 30.01 s
+[2024.10.01-06.06.49:700][ 51]LogShaderCompilers: Display: Time job spent in pending queue: average 0.50 s, longest 2.60 s
+[2024.10.01-06.06.49:700][ 51]LogShaderCompilers: Display: Job execution time: average 1.24 s, max 2.97 s
+[2024.10.01-06.06.49:700][ 51]LogShaderCompilers: Display: Job life time (pending + execution): average 1.75 s, max 3.13
+[2024.10.01-06.06.49:700][ 51]LogShaderCompilers: Display: Shader code size: average 42.964 KiB, min 27.684 KiB, max 63.129 KiB
+[2024.10.01-06.06.49:700][ 51]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.06 s
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.07%
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display: Jobs were issued in 53 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display: Average processing rate: 3.77 jobs/sec
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display: Total thread time: 41.55 s
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display: Total thread preprocess time: 6.762 s
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display: Percentage time preprocessing: 16.27%
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display: Effective parallelization: 2.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.94 sec, max 0.96 sec, min 0.92 sec)
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.91 sec, max 1.28 sec, min 0.54 sec)
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 0.83 sec, max 1.17 sec, min 0.44 sec)
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.78 sec, max 0.82 sec, min 0.74 sec)
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    2 times, average 0.78 sec, max 0.83 sec, min 0.73 sec)
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.99% of total time (compiled   11 times, average 0.83 sec, max 1.17 sec, min 0.44 sec)
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.83% of total time (compiled   12 times, average 0.62 sec, max 0.89 sec, min 0.33 sec)
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.26% of total time (compiled    8 times, average 0.74 sec, max 0.85 sec, min 0.63 sec)
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.11% of total time (compiled    7 times, average 0.60 sec, max 0.74 sec, min 0.47 sec)
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display:                                                  FVelocityPS - 5.53% of total time (compiled    3 times, average 0.77 sec, max 0.83 sec, min 0.68 sec)
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display: === Material stats ===
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display: Materials Translated:    126
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display: Material Translation Only: 0.05 s (41%)
+[2024.10.01-06.06.49:701][ 51]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.10.01-06.06.49:702][ 51]LogShaderCompilers: Display: Material Cache Hits: 21 (17%)
+[2024.10.01-06.06.49:702][ 51]LogShaderCompilers: Display: ================================================
+[2024.10.01-06.10.32:958][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2024.10.01-06.10.32:994][831]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainLevel_Auto2
+[2024.10.01-06.10.32:995][831]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/MainLevel_Auto2532B55E94D615EC6E5E1B6BBF2892544.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/Autosaves/Game/MainLevel_Auto2.umap'
+[2024.10.01-06.10.32:998][831]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/Autosaves/Game/MainLevel_Auto2.umap is in the /Temp path, will not scan.
+[2024.10.01-06.10.32:999][831]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainLevel' took 0.134
+[2024.10.01-06.10.32:999][831]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.134
+[2024.10.01-06.10.33:002][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/explosion] ([1] browsable assets)...
+[2024.10.01-06.10.33:007][831]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/explosion.explosion]
+[2024.10.01-06.10.33:007][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/explosion]
+[2024.10.01-06.10.33:007][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/explosion" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/Autosaves/Game/explosion_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.10.01-06.10.33:013][831]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/explosion_Auto2
+[2024.10.01-06.10.33:013][831]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/explosion_Auto29BB455E04D74B4D104D11AB10844D83E.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/Autosaves/Game/explosion_Auto2.uasset'
+[2024.10.01-06.10.33:014][831]LogFileHelpers: Auto-saving content packages took 0.014
+[2024.10.01-06.11.01:473][349]Running C:/Program Files/Epic Games/UE_5.4/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Asteroids.uproject" -game -rocket -progress
+[2024.10.01-06.11.01:621][349]Using bundled DotNet SDK version: 6.0.302
+[2024.10.01-06.11.01:621][349]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Asteroids.uproject" -game -rocket -progress
+[2024.10.01-06.11.02:225][349]Log file: C:\Users\clara\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.10.01-06.11.02:728][349]
+[2024.10.01-06.11.02:728][349]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64, TVOS.
+[2024.10.01-06.11.02:728][349]See the log file for detailed information
+[2024.10.01-06.11.02:728][349]
+[2024.10.01-06.11.02:728][349]
+[2024.10.01-06.11.02:728][349]Generating VisualStudio project files:
+[2024.10.01-06.11.02:728][349]Discovering modules, targets and source code for project...
+[2024.10.01-06.11.05:342][349]Binding IntelliSense data...
+[2024.10.01-06.11.43:571][349]Binding IntelliSense data... 100%
+[2024.10.01-06.11.43:571][349]Writing project files...
+[2024.10.01-06.11.47:201][349]Writing project files... 100%
+[2024.10.01-06.11.47:201][349]
+[2024.10.01-06.11.47:201][349]Generating QueryTargets data for editor...
+[2024.10.01-06.11.47:201][349]Total execution time: 45.42 seconds
+[2024.10.01-06.11.47:408][349]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.10.01-06.11.47:747][349]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.10.01-06.11.47:880][349]LogAutomationController: Ignoring very large delta of 47.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-06.13.27:461][649]LogLiveCoding: Display:    Creating library C:\Users\clara\Documents\CIS5680\Asteroids\Asteroids\Binaries\Win64\UnrealEditor-Asteroids.patch_5.lib and object C:\Users\clara\Documents\CIS5680\Asteroids\Asteroids\Binaries\Win64\UnrealEditor-Asteroids.patch_5.exp
+[2024.10.01-06.13.28:115][650]LogClass: UPackage /Script/Asteroids Reload.
+[2024.10.01-06.13.28:116][650]LogClass: UClass Asteroid Reload.
+[2024.10.01-06.13.28:122][650]LogClass: Could not find existing class Asteroid in package /Script/Asteroids for reload, assuming new or modified class
+[2024.10.01-06.13.28:122][650]LogClass: Function onHit is new or belongs to a modified class.
+[2024.10.01-06.13.28:122][650]LogClass: Could not find existing class Global in package /Script/Asteroids for reload, assuming new or modified class
+[2024.10.01-06.13.28:187][650]Re-instancing Asteroid after reload.
+[2024.10.01-06.13.28:876][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2024.10.01-06.13.30:100][651]LogAutomationController: Ignoring very large delta of 2.18 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-06.13.30:151][651]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 1 class changed
+[2024.10.01-06.13.30:151][651]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.10.01-06.14.05:736][892]Cmd: DELETE
+[2024.10.01-06.14.05:737][892]Cmd: ACTOR DELETE
+[2024.10.01-06.14.05:800][892]LogEditorActor: Deleted Actor: AsteroidBP_C
+[2024.10.01-06.14.06:048][892]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2024.10.01-06.14.06:055][892]LogEditorActor: Deleted 1 Actors (0.274 secs)
+[2024.10.01-06.14.23:598][297]LogEditor: Attempting to add actor of class 'Global' to level at 220.00,-470.00,-420.00
+[2024.10.01-06.14.23:939][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.10.01-06.14.23:952][307]LogEditorActor: Deleted 0 Actors (0.127 secs)
+[2024.10.01-06.14.29:096][567]LogEditor: Attempting to add actor of class 'Global' to level at 240.00,-120.00,-560.00
+[2024.10.01-06.14.29:960][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.10.01-06.14.29:968][607]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2024.10.01-06.14.29:977][607]LogEditor: Attempting to add actor of class 'Global' to level at -30.00,-250.00,-570.00
+[2024.10.01-06.14.33:598][802]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.01-06.14.33:640][802]LogPlayLevel: [PlayLevel] Compiling ExplosionBP before play...
+[2024.10.01-06.14.33:671][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.10.01-06.14.33:674][802]LogPlayLevel: PlayLevel: Blueprint regeneration took 36 ms (1 blueprints)
+[2024.10.01-06.14.33:683][802]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.10.01-06.14.33:701][802]PIE: Warning: Constraint in 'None' attempting to create a joint between objects that are both static.  No joint created.
+[2024.10.01-06.14.33:713][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029034s)
+[2024.10.01-06.14.33:713][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.029260s)
+[2024.10.01-06.14.33:736][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.10.01-06.14.33:752][802]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.01-06.14.33:811][802]LogPlayLevel: PIE: World Init took: (0.070230s)
+[2024.10.01-06.14.33:820][802]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.10.01-06.14.33:823][802]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.01-06.14.33:823][802]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.01-06.14.33:823][802]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.01-06.14.33:824][802]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.01-06.14.33:824][802]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.01-06.14.33:824][802]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.01-06.14.33:824][802]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.01-06.14.33:824][802]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.01-06.14.33:827][802]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.01-06.14.33:827][802]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.01-06.14.33:827][802]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.01-06.14.33:834][802]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.01-06.14.34:071][802]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.01-06.14.34:075][802]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.01-06.14.34:075][802]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.01-06.14.34:075][802]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.01-06.14.34:079][802]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.10.01-06.14.34:079][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.10.01-06.14.34:082][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.10.01-06.14.34:082][802]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.10.01-06.14.34:082][802]LogInit: FAudioDevice initialized with ID 11.
+[2024.10.01-06.14.34:083][802]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainLevel'.
+[2024.10.01-06.14.34:084][802]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.10.01-06.14.34:115][802]LogLoad: Game class is 'GameModeBase'
+[2024.10.01-06.14.34:132][802]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.10.01-02.14.34
+[2024.10.01-06.14.34:135][802]LogWorld: Bringing up level for play took: 0.017552
+[2024.10.01-06.14.34:152][802]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.10.01-06.14.34:198][802]PIE: Server logged in
+[2024.10.01-06.14.34:199][802]PIE: Play in editor total start time 0.583 seconds.
+[2024.10.01-06.14.42:134][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-06.14.42:134][198]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.10.01-06.14.42:141][198]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-06.14.42:144][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.14.42:147][198]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.01-06.14.42:147][198]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.01-06.14.42:157][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.01-06.14.42:164][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.14.42:188][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-06.14.42:189][198]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.10.01-06.14.42:190][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.10.01-06.14.42:193][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.10.01-06.14.42:216][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.01-06.14.42:549][199]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.10.01-06.14.43:626][239]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-06.14.43:663][239]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-06.14.44:669][278]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.10.01-06.15.32:352][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.10.01-06.15.34:500][631]LogSlate: Window 'Save Content' being destroyed
+[2024.10.01-06.15.34:518][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-06.15.34:667][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.01-06.15.34:725][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.10.01-06.15.34:745][631]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2024.10.01-06.15.34:747][631]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/MainLevel818D15854E28C577F3159AA9C4375237.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/MainLevel.umap'
+[2024.10.01-06.15.34:783][631]LogFileHelpers: Saving map 'MainLevel' took 0.118
+[2024.10.01-06.15.34:785][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/explosion] ([1] browsable assets)...
+[2024.10.01-06.15.34:785][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/explosion]
+[2024.10.01-06.15.34:785][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/explosion" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/explosion.uasset" SILENT=true
+[2024.10.01-06.15.34:790][631]LogSavePackage: Moving output files for package: /Game/explosion
+[2024.10.01-06.15.34:790][631]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/explosion62DD8DB241F98593CF6C86A00E07A959.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/explosion.uasset'
+[2024.10.01-06.15.34:823][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 305.697 ms (total: 2.57 sec)
+[2024.10.01-06.15.34:994][631]LogContentValidation: Display: Starting to validate 2 assets
+[2024.10.01-06.15.34:994][631]LogContentValidation: Enabled validators:
+[2024.10.01-06.15.34:994][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-06.15.34:995][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-06.15.34:995][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-06.15.34:995][631]LogContentValidation: Display: Validating asset /Game/MainLevel.MainLevel
+[2024.10.01-06.15.34:995][631]AssetCheck: /Game/MainLevel Validating asset
+[2024.10.01-06.15.34:996][631]LogContentValidation: Display: Validating asset /Game/explosion.explosion
+[2024.10.01-06.15.34:996][631]AssetCheck: /Game/explosion Validating asset
+[2024.10.01-06.15.35:019][631]LogAutomationController: Ignoring very large delta of 2.71 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-06.15.49:271][ 90]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.10.01-06.15.49:272][ 90]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.10.01-06.15.55:580][178]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.10.01-06.16.57:810][705]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.10.01-06.16.57:810][705]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.10.01-06.17.28:869][843]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.10.01-06.17.48:501][936]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.10.01-06.17.48:501][936]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.10.01-06.21.55:685][867]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.10.01-06.23.18:240][179]LogLiveCoding: Display:    Creating library C:\Users\clara\Documents\CIS5680\Asteroids\Asteroids\Binaries\Win64\UnrealEditor-Asteroids.patch_6.lib and object C:\Users\clara\Documents\CIS5680\Asteroids\Asteroids\Binaries\Win64\UnrealEditor-Asteroids.patch_6.exp
+[2024.10.01-06.23.18:736][179]LogClass: UPackage /Script/Asteroids Reload.
+[2024.10.01-06.23.18:758][179]LogClass: UClass Asteroid Reload.
+[2024.10.01-06.23.18:772][179]LogClass: UClass Global Reload.
+[2024.10.01-06.23.18:773][179]LogClass: Could not find existing class Asteroid in package /Script/Asteroids for reload, assuming new or modified class
+[2024.10.01-06.23.18:774][179]LogClass: Function onHit is new or belongs to a modified class.
+[2024.10.01-06.23.18:774][179]LogClass: Could not find existing class Global in package /Script/Asteroids for reload, assuming new or modified class
+[2024.10.01-06.23.18:776][179]LogClass: Function incrementScore is new or belongs to a modified class.
+[2024.10.01-06.23.18:873][179]Re-instancing Asteroid after reload.
+[2024.10.01-06.23.19:196][179]Re-instancing Global after reload.
+[2024.10.01-06.23.19:776][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.10.01-06.23.21:119][180]LogAutomationController: Ignoring very large delta of 2.70 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-06.23.21:249][180]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes changed
+[2024.10.01-06.23.21:249][180]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.10.01-06.23.24:789][273]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.01-06.23.24:834][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.01-06.23.24:852][273]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.10.01-06.23.24:866][273]PIE: Warning: Constraint in 'None' attempting to create a joint between objects that are both static.  No joint created.
+[2024.10.01-06.23.24:882][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030602s)
+[2024.10.01-06.23.24:882][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.030844s)
+[2024.10.01-06.23.25:062][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2024.10.01-06.23.25:097][273]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.01-06.23.25:170][273]LogPlayLevel: PIE: World Init took: (0.090404s)
+[2024.10.01-06.23.25:180][273]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.10.01-06.23.25:183][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.01-06.23.25:183][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.01-06.23.25:184][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.01-06.23.25:185][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.01-06.23.25:185][273]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.01-06.23.25:185][273]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.01-06.23.25:185][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.01-06.23.25:185][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.01-06.23.25:186][273]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.01-06.23.25:186][273]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.01-06.23.25:186][273]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.01-06.23.25:195][273]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.01-06.23.25:446][273]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.01-06.23.25:455][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.01-06.23.25:455][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.01-06.23.25:457][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.01-06.23.25:462][273]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.10.01-06.23.25:462][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.10.01-06.23.25:464][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.10.01-06.23.25:464][273]LogInit: FAudioDevice initialized with ID 12.
+[2024.10.01-06.23.25:464][273]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainLevel'.
+[2024.10.01-06.23.25:464][273]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.10.01-06.23.25:466][273]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.10.01-06.23.25:504][273]LogLoad: Game class is 'GameModeBase'
+[2024.10.01-06.23.25:530][273]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.10.01-02.23.25
+[2024.10.01-06.23.25:533][273]LogWorld: Bringing up level for play took: 0.028426
+[2024.10.01-06.23.25:549][273]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.10.01-06.23.25:593][273]PIE: Server logged in
+[2024.10.01-06.23.25:594][273]PIE: Play in editor total start time 0.78 seconds.
+[2024.10.01-06.24.31:914][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-06.24.31:914][155]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.10.01-06.24.31:927][155]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-06.24.31:941][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.24.31:948][155]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.01-06.24.31:948][155]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.01-06.24.31:979][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.01-06.24.31:988][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.24.32:021][155]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.01-06.24.32:026][155]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.10.01-06.24.32:029][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.10.01-06.24.32:038][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.10.01-06.24.32:054][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-06.24.32:089][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2024.10.01-06.24.32:550][156]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.10.01-06.24.34:534][226]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-06.24.34:572][226]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-06.26.13:349][247]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.10.01-06.26.13:382][247]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.10.01-06.26.13:395][247]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.10.01-06.26.13:429][247]LogAutomationController: Ignoring very large delta of 29.20 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-06.26.13:429][247]LogHttp: Warning: 00000A865ACD9A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.01-06.26.13:429][247]LogHttp: Warning: 00000A865ACD9A00: libcurl info message cache 0 (Found bundle for host: 0xa85f6180030 [serially])
+[2024.10.01-06.26.13:429][247]LogHttp: Warning: 00000A865ACD9A00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.10.01-06.26.13:429][247]LogHttp: Warning: 00000A865ACD9A00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.10.01-06.26.13:429][247]LogHttp: Warning: 00000A865ACD9A00: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2024.10.01-06.26.13:429][247]LogHttp: Warning: 00000A865ACD9A00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.10.01-06.26.13:429][247]LogHttp: Warning: 00000A865ACD9A00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.10.01-06.26.13:429][247]LogHttp: Warning: 00000A865ACD9A00: libcurl info message cache 6 (Closing connection)
+[2024.10.01-06.26.13:429][247]LogHttp: Warning: 00000A865ACD9A00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.10.01-06.26.13:429][247]LogHttp: Warning: 00000A865ACD9A00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2E758C0-410B-8851-9C4B-ED888F8E2950%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=01db8922438d4e11f7e60daaca4b201b%7Ca4be9ba970664134b243e4d9e27f369b%7C56ff27e5-5452-4093-85f4-9feef685d33e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.10.01-06.26.13:429][248]LogHttp: Warning: 00000A865ACD9A00: libcurl info message cache 9 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.01-06.26.13:429][248]LogHttp: Warning: 00000A865ACD9A00: libcurl info message cache 10 (Closing connection)
+[2024.10.01-06.26.13:430][248]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2E758C0-410B-8851-9C4B-ED888F8E2950%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=01db8922438d4e11f7e60daaca4b201b%7Ca4be9ba970664134b243e4d9e27f369b%7C56ff27e5-5452-4093-85f4-9feef685d33e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.01-06.26.13:445][248]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.10.01-06.26.20:497][468]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2024.10.01-06.26.20:570][468]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.10.01-06.26.24:834][659]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> ScoreDisplay
+[2024.10.01-06.26.25:144][659]LogMetaData: Removing '/Game/ScoreDisplay.SKEL_ScoreDisplay_C' ref from Metadata '/Game/NewWidgetBlueprint.PackageMetaData'
+[2024.10.01-06.26.25:144][659]LogMetaData: Removing '/Game/ScoreDisplay.ScoreDisplay_C' ref from Metadata '/Game/NewWidgetBlueprint.PackageMetaData'
+[2024.10.01-06.26.25:144][659]LogMetaData: Removing '/Game/ScoreDisplay.ScoreDisplay:EventGraph.K2Node_Event_0' ref from Metadata '/Game/NewWidgetBlueprint.PackageMetaData'
+[2024.10.01-06.26.25:145][659]LogMetaData: Removing '/Game/ScoreDisplay.ScoreDisplay:EventGraph.K2Node_Event_1' ref from Metadata '/Game/NewWidgetBlueprint.PackageMetaData'
+[2024.10.01-06.26.25:145][659]LogMetaData: Removing '/Game/ScoreDisplay.ScoreDisplay:EventGraph.K2Node_Event_2' ref from Metadata '/Game/NewWidgetBlueprint.PackageMetaData'
+[2024.10.01-06.26.25:167][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-06.26.25:341][659]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ScoreDisplay] ([2] browsable assets)...
+[2024.10.01-06.26.25:375][659]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ScoreDisplay.ScoreDisplay]
+[2024.10.01-06.26.25:375][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScoreDisplay]
+[2024.10.01-06.26.25:376][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreDisplay" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ScoreDisplay.uasset" SILENT=true
+[2024.10.01-06.26.25:435][659]LogSavePackage: Moving output files for package: /Game/ScoreDisplay
+[2024.10.01-06.26.25:436][659]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/ScoreDisplay58EE7CE74C021235AF10B4BA49B08D55.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ScoreDisplay.uasset'
+[2024.10.01-06.26.25:488][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 321.701 ms (total: 2.89 sec)
+[2024.10.01-06.26.25:539][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.10.01-06.26.25:575][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.10.01-06.26.25:602][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.10.01-06.26.25:768][659]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.01-06.26.25:768][659]LogContentValidation: Enabled validators:
+[2024.10.01-06.26.25:768][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-06.26.25:768][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-06.26.25:768][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-06.26.25:768][659]LogContentValidation: Display: Validating asset /Game/ScoreDisplay.ScoreDisplay
+[2024.10.01-06.26.25:769][659]AssetCheck: /Game/ScoreDisplay Validating asset
+[2024.10.01-06.26.27:894][736]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ScoreDisplay.ScoreDisplay
+[2024.10.01-06.26.27:954][736]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.10.01-06.26.29:621][736]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.10.01-06.26.29:641][736]LogSlate: Took 0.008875 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.10.01-06.26.34:539][839]LogDerivedDataCache: C:/Users/clara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.01-06.26.54:049][114]LogHttp: Warning: 00000A8675E9D900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.01-06.26.54:049][114]LogHttp: Warning: 00000A8675E9D900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.01-06.26.54:049][114]LogHttp: Warning: 00000A8675E9D900: libcurl info message cache 1 (Closing connection)
+[2024.10.01-06.26.54:049][114]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2E758C0-410B-8851-9C4B-ED888F8E2950%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=01db8922438d4e11f7e60daaca4b201b%7Ca4be9ba970664134b243e4d9e27f369b%7C56ff27e5-5452-4093-85f4-9feef685d33e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.01-06.27.46:900][ 81]LogHttp: Warning: 00000A86707D9A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.01-06.27.46:900][ 81]LogHttp: Warning: 00000A86707D9A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.01-06.27.46:900][ 81]LogHttp: Warning: 00000A86707D9A00: libcurl info message cache 1 (Closing connection)
+[2024.10.01-06.27.46:900][ 82]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2E758C0-410B-8851-9C4B-ED888F8E2950%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=01db8922438d4e11f7e60daaca4b201b%7Ca4be9ba970664134b243e4d9e27f369b%7C56ff27e5-5452-4093-85f4-9feef685d33e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.01-06.28.11:566][478]LogSlate: Took 0.041337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.10.01-06.28.46:635][521]LogHttp: Warning: 00000A866741E000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.01-06.28.46:635][521]LogHttp: Warning: 00000A866741E000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.01-06.28.46:635][521]LogHttp: Warning: 00000A866741E000: libcurl info message cache 1 (Closing connection)
+[2024.10.01-06.28.46:635][521]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2E758C0-410B-8851-9C4B-ED888F8E2950%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=01db8922438d4e11f7e60daaca4b201b%7Ca4be9ba970664134b243e4d9e27f369b%7C56ff27e5-5452-4093-85f4-9feef685d33e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.01-06.29.09:409][334]LogEditorTransaction: Undo Remove Widget
+[2024.10.01-06.29.46:759][234]LogHttp: Warning: 00000A868C321C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.01-06.29.46:759][234]LogHttp: Warning: 00000A868C321C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.01-06.29.46:760][234]LogHttp: Warning: 00000A868C321C00: libcurl info message cache 1 (Closing connection)
+[2024.10.01-06.29.46:760][234]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2E758C0-410B-8851-9C4B-ED888F8E2950%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=01db8922438d4e11f7e60daaca4b201b%7Ca4be9ba970664134b243e4d9e27f369b%7C56ff27e5-5452-4093-85f4-9feef685d33e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.01-06.29.56:886][534]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.01-06.30.06:255][770]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.01-06.30.42:609][700]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.01-06.30.52:640][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2024.10.01-06.30.57:982][892]LogHttp: Warning: 00000A865705AF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.01-06.30.57:982][892]LogHttp: Warning: 00000A865705AF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.01-06.30.57:982][892]LogHttp: Warning: 00000A865705AF00: libcurl info message cache 1 (Closing connection)
+[2024.10.01-06.30.57:983][892]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2E758C0-410B-8851-9C4B-ED888F8E2950%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=01db8922438d4e11f7e60daaca4b201b%7Ca4be9ba970664134b243e4d9e27f369b%7C56ff27e5-5452-4093-85f4-9feef685d33e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.01-06.33.13:597][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.10.01-06.33.13:603][739]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainLevel' took 0.041
+[2024.10.01-06.33.13:605][739]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ScoreDisplay] ([2] browsable assets)...
+[2024.10.01-06.33.13:619][739]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ScoreDisplay.ScoreDisplay]
+[2024.10.01-06.33.13:619][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScoreDisplay]
+[2024.10.01-06.33.13:619][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreDisplay" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/Autosaves/Game/ScoreDisplay_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.10.01-06.33.13:626][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScoreDisplay_Auto3
+[2024.10.01-06.33.13:626][739]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/ScoreDisplay_Auto3539C962046197B0195A8D08EC362B367.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/Autosaves/Game/ScoreDisplay_Auto3.uasset'
+[2024.10.01-06.33.13:627][739]LogFileHelpers: Auto-saving content packages took 0.025
+[2024.10.01-06.34.09:929][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-06.34.10:066][878]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ScoreDisplay] ([2] browsable assets)...
+[2024.10.01-06.34.10:073][878]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ScoreDisplay.ScoreDisplay]
+[2024.10.01-06.34.10:073][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScoreDisplay]
+[2024.10.01-06.34.10:073][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreDisplay" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ScoreDisplay.uasset" SILENT=true
+[2024.10.01-06.34.10:088][878]LogSavePackage: Moving output files for package: /Game/ScoreDisplay
+[2024.10.01-06.34.10:089][878]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/ScoreDisplayED5630F843DDF193AA6D6F973B191170.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ScoreDisplay.uasset'
+[2024.10.01-06.34.10:112][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.496 ms (total: 3.07 sec)
+[2024.10.01-06.34.10:276][878]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.01-06.34.10:276][878]LogContentValidation: Enabled validators:
+[2024.10.01-06.34.10:277][878]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-06.34.10:277][878]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-06.34.10:277][878]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-06.34.10:277][878]LogContentValidation: Display: Validating asset /Game/ScoreDisplay.ScoreDisplay
+[2024.10.01-06.34.10:283][878]AssetCheck: /Game/ScoreDisplay Validating asset
+[2024.10.01-06.34.24:515][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-06.34.24:662][  1]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScoreDisplay] ([2] browsable assets)...
+[2024.10.01-06.34.24:662][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScoreDisplay]
+[2024.10.01-06.34.24:662][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreDisplay" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ScoreDisplay.uasset" SILENT=true
+[2024.10.01-06.34.24:669][  1]LogSavePackage: Moving output files for package: /Game/ScoreDisplay
+[2024.10.01-06.34.24:670][  1]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/ScoreDisplay0EC1E093445ACCC86BA16FADCC8904B1.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ScoreDisplay.uasset'
+[2024.10.01-06.34.24:689][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.733 ms (total: 3.25 sec)
+[2024.10.01-06.34.24:838][  1]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.01-06.34.24:838][  1]LogContentValidation: Enabled validators:
+[2024.10.01-06.34.24:838][  1]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-06.34.24:838][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-06.34.24:838][  1]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-06.34.24:838][  1]LogContentValidation: Display: Validating asset /Game/ScoreDisplay.ScoreDisplay
+[2024.10.01-06.34.24:841][  1]AssetCheck: /Game/ScoreDisplay Validating asset
+[2024.10.01-06.34.25:850][ 42]LogSlate: Window 'ScoreDisplay' being destroyed
+[2024.10.01-06.34.25:870][ 42]LogSlate: Window 'ScoreDisplay' being destroyed
+[2024.10.01-06.34.25:948][ 42]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-06.34.25:960][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.34.25:988][ 42]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-06.34.25:988][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.34.26:089][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.10.01-06.34.43:062][469]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainLevel.MainLevel:PersistentLevel.MainLevel
+[2024.10.01-06.35.54:400][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-06.35.54:559][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.01-06.35.54:632][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.10.01-06.35.54:661][ 11]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2024.10.01-06.35.54:662][ 11]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/MainLevel776E8B4F494B60E07C6F378534984A73.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/MainLevel.umap'
+[2024.10.01-06.35.54:674][ 11]LogFileHelpers: Saving map 'MainLevel' took 0.129
+[2024.10.01-06.35.54:693][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 292.071 ms (total: 3.54 sec)
+[2024.10.01-06.35.54:839][ 11]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.01-06.35.54:839][ 11]LogContentValidation: Enabled validators:
+[2024.10.01-06.35.54:839][ 11]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-06.35.54:839][ 11]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-06.35.54:839][ 11]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-06.35.54:839][ 11]LogContentValidation: Display: Validating asset /Game/MainLevel.MainLevel
+[2024.10.01-06.35.54:839][ 11]AssetCheck: /Game/MainLevel Validating asset
+[2024.10.01-06.36.02:777][107]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.01-06.36.02:807][107]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2024.10.01-06.36.02:844][107]LogPlayLevel: [PlayLevel] Compiling ScoreDisplay before play...
+[2024.10.01-06.36.02:897][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.10.01-06.36.02:899][107]LogPlayLevel: PlayLevel: Blueprint regeneration took 93 ms (2 blueprints)
+[2024.10.01-06.36.02:906][107]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.10.01-06.36.02:915][107]PIE: Warning: Constraint in 'None' attempting to create a joint between objects that are both static.  No joint created.
+[2024.10.01-06.36.02:926][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018506s)
+[2024.10.01-06.36.02:926][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.018664s)
+[2024.10.01-06.36.02:953][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.10.01-06.36.02:966][107]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.01-06.36.02:982][107]LogPlayLevel: PIE: World Init took: (0.023852s)
+[2024.10.01-06.36.02:993][107]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.10.01-06.36.02:996][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.01-06.36.02:996][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.01-06.36.02:996][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.01-06.36.02:996][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.01-06.36.02:996][107]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.01-06.36.02:996][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.01-06.36.02:996][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.01-06.36.02:996][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.01-06.36.02:999][107]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.01-06.36.02:999][107]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.01-06.36.03:000][107]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.01-06.36.03:003][107]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.01-06.36.03:234][107]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.01-06.36.03:243][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.01-06.36.03:243][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.01-06.36.03:244][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.01-06.36.03:258][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.10.01-06.36.03:258][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.10.01-06.36.03:261][107]LogInit: FAudioDevice initialized with ID 13.
+[2024.10.01-06.36.03:261][107]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainLevel'.
+[2024.10.01-06.36.03:261][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.10.01-06.36.03:261][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.10.01-06.36.03:263][107]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.10.01-06.36.03:297][107]LogLoad: Game class is 'GameModeBase'
+[2024.10.01-06.36.03:328][107]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.10.01-02.36.03
+[2024.10.01-06.36.03:331][107]LogWorld: Bringing up level for play took: 0.031736
+[2024.10.01-06.36.03:350][107]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.10.01-06.36.03:410][107]PIE: Server logged in
+[2024.10.01-06.36.03:411][107]PIE: Play in editor total start time 0.616 seconds.
+[2024.10.01-06.36.06:834][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-06.36.06:834][274]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScoreDisplay] ([2] browsable assets)...
+[2024.10.01-06.36.06:834][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScoreDisplay]
+[2024.10.01-06.36.06:834][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreDisplay" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ScoreDisplay.uasset" SILENT=true
+[2024.10.01-06.36.06:842][274]LogSavePackage: Moving output files for package: /Game/ScoreDisplay
+[2024.10.01-06.36.06:843][274]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/ScoreDisplay72B182664A3C0ACB18FE7CB18C671352.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ScoreDisplay.uasset'
+[2024.10.01-06.36.06:844][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.684 ms (total: 3.55 sec)
+[2024.10.01-06.36.06:852][274]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.01-06.36.06:852][274]LogContentValidation: Enabled validators:
+[2024.10.01-06.36.06:852][274]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.01-06.36.06:852][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.01-06.36.06:852][274]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.01-06.36.06:852][274]LogContentValidation: Display: Validating asset /Game/ScoreDisplay.ScoreDisplay
+[2024.10.01-06.36.06:854][274]AssetCheck: /Game/ScoreDisplay Validating asset
+[2024.10.01-06.36.07:283][298]LogSlate: Window 'MainLevel' being destroyed
+[2024.10.01-06.36.07:298][298]LogSlate: Window 'MainLevel' being destroyed
+[2024.10.01-06.36.07:306][298]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-06.36.07:306][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.36.07:370][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.10.01-06.36.12:229][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-06.36.12:229][582]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.10.01-06.36.12:233][582]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-06.36.12:240][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.36.12:243][582]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.01-06.36.12:243][582]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.01-06.36.12:256][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.01-06.36.12:263][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.36.12:291][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-06.36.12:295][582]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.10.01-06.36.12:298][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.10.01-06.36.12:301][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.10.01-06.36.12:330][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.10.01-06.36.12:685][583]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.10.01-06.36.13:970][620]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-06.36.14:002][620]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-06.36.15:829][702]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.01-06.36.15:840][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.01-06.36.15:870][702]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.10.01-06.36.15:871][702]PIE: Warning: Constraint in 'None' attempting to create a joint between objects that are both static.  No joint created.
+[2024.10.01-06.36.15:873][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003272s)
+[2024.10.01-06.36.15:873][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003363s)
+[2024.10.01-06.36.15:908][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.10.01-06.36.15:913][702]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.01-06.36.15:915][702]LogPlayLevel: PIE: World Init took: (0.002199s)
+[2024.10.01-06.36.15:920][702]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.10.01-06.36.15:920][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.01-06.36.15:920][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.01-06.36.15:920][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.01-06.36.15:920][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.01-06.36.15:920][702]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.01-06.36.15:920][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.01-06.36.15:920][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.01-06.36.15:920][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.01-06.36.15:920][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.01-06.36.15:920][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.01-06.36.15:920][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.01-06.36.15:922][702]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.01-06.36.16:164][702]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.01-06.36.16:169][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.01-06.36.16:169][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.01-06.36.16:169][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.01-06.36.16:178][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.10.01-06.36.16:178][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.10.01-06.36.16:181][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.10.01-06.36.16:181][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.10.01-06.36.16:181][702]LogInit: FAudioDevice initialized with ID 14.
+[2024.10.01-06.36.16:181][702]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainLevel'.
+[2024.10.01-06.36.16:181][702]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.10.01-06.36.16:184][702]LogLoad: Game class is 'GameModeBase'
+[2024.10.01-06.36.16:185][702]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.10.01-02.36.16
+[2024.10.01-06.36.16:185][702]LogWorld: Bringing up level for play took: 0.000786
+[2024.10.01-06.36.16:188][702]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.10.01-06.36.16:196][702]PIE: Server logged in
+[2024.10.01-06.36.16:198][702]PIE: Play in editor total start time 0.36 seconds.
+[2024.10.01-06.36.31:081][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-06.36.31:081][574]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.10.01-06.36.31:081][574]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-06.36.31:082][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.36.31:082][574]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.01-06.36.31:082][574]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.01-06.36.31:088][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.01-06.36.31:096][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.36.31:123][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-06.36.31:124][574]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.10.01-06.36.31:124][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.01-06.36.31:127][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.01-06.36.31:139][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.10.01-06.36.31:531][575]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.10.01-06.36.32:966][625]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-06.36.33:005][625]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-06.38.33:296][542]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AsteroidBP.AsteroidBP
+[2024.10.01-06.38.49:437][ 70]LogHttp: Warning: 00000A8678287700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.01-06.38.49:438][ 71]LogHttp: Warning: 00000A8678287700: libcurl info message cache 0 (Found bundle for host: 0xa85f6180a50 [serially])
+[2024.10.01-06.38.49:438][ 71]LogHttp: Warning: 00000A8678287700: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.10.01-06.38.49:438][ 71]LogHttp: Warning: 00000A8678287700: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.10.01-06.38.49:438][ 71]LogHttp: Warning: 00000A8678287700: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2024.10.01-06.38.49:438][ 71]LogHttp: Warning: 00000A8678287700: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.10.01-06.38.49:438][ 71]LogHttp: Warning: 00000A8678287700: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.10.01-06.38.49:438][ 71]LogHttp: Warning: 00000A8678287700: libcurl info message cache 6 (Closing connection)
+[2024.10.01-06.38.49:438][ 71]LogHttp: Warning: 00000A8678287700: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.10.01-06.38.49:438][ 71]LogHttp: Warning: 00000A8678287700: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2E758C0-410B-8851-9C4B-ED888F8E2950%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=01db8922438d4e11f7e60daaca4b201b%7Ca4be9ba970664134b243e4d9e27f369b%7C56ff27e5-5452-4093-85f4-9feef685d33e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.10.01-06.38.49:438][ 71]LogHttp: Warning: 00000A8678287700: libcurl info message cache 9 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.01-06.38.49:438][ 71]LogHttp: Warning: 00000A8678287700: libcurl info message cache 10 (Closing connection)
+[2024.10.01-06.38.49:438][ 71]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2E758C0-410B-8851-9C4B-ED888F8E2950%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=01db8922438d4e11f7e60daaca4b201b%7Ca4be9ba970664134b243e4d9e27f369b%7C56ff27e5-5452-4093-85f4-9feef685d33e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.01-06.39.15:839][  0]LogSlate: Window 'AsteroidBP' being destroyed
+[2024.10.01-06.39.15:861][  0]LogSlate: Window 'AsteroidBP' being destroyed
+[2024.10.01-06.39.15:867][  0]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-06.39.15:867][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.39.15:965][  0]LogUObjectHash: Compacting FUObjectHashTables data took   9.19ms
+[2024.10.01-06.39.17:433][ 80]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.01-06.39.17:444][ 80]LogPlayLevel: [PlayLevel] Compiling AsteroidBP before play...
+[2024.10.01-06.39.17:495][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.10.01-06.39.17:497][ 80]LogPlayLevel: PlayLevel: Blueprint regeneration took 54 ms (1 blueprints)
+[2024.10.01-06.39.17:497][ 80]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.10.01-06.39.17:497][ 80]PIE: Warning: Constraint in 'None' attempting to create a joint between objects that are both static.  No joint created.
+[2024.10.01-06.39.17:499][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001747s)
+[2024.10.01-06.39.17:499][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.001793s)
+[2024.10.01-06.39.17:522][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.10.01-06.39.17:524][ 80]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.01-06.39.17:525][ 80]LogPlayLevel: PIE: World Init took: (0.001428s)
+[2024.10.01-06.39.17:531][ 80]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.10.01-06.39.17:531][ 80]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.01-06.39.17:531][ 80]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.01-06.39.17:531][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.01-06.39.17:531][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.01-06.39.17:531][ 80]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.01-06.39.17:531][ 80]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.01-06.39.17:531][ 80]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.01-06.39.17:532][ 80]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.01-06.39.17:532][ 80]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.01-06.39.17:532][ 80]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.01-06.39.17:532][ 80]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.01-06.39.17:534][ 80]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.01-06.39.17:741][ 80]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.01-06.39.17:741][ 80]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.01-06.39.17:741][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.01-06.39.17:741][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.01-06.39.17:742][ 80]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.10.01-06.39.17:742][ 80]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.10.01-06.39.17:745][ 80]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.10.01-06.39.17:745][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.10.01-06.39.17:745][ 80]LogInit: FAudioDevice initialized with ID 15.
+[2024.10.01-06.39.17:745][ 80]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainLevel'.
+[2024.10.01-06.39.17:746][ 80]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.10.01-06.39.17:749][ 80]LogLoad: Game class is 'GameModeBase'
+[2024.10.01-06.39.17:750][ 80]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.10.01-02.39.17
+[2024.10.01-06.39.17:750][ 80]LogWorld: Bringing up level for play took: 0.000835
+[2024.10.01-06.39.17:753][ 80]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.10.01-06.39.17:763][ 80]PIE: Server logged in
+[2024.10.01-06.39.17:764][ 80]PIE: Play in editor total start time 0.324 seconds.
+[2024.10.01-06.39.42:600][560]LogHttp: Warning: 00000A8658115B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.01-06.39.42:600][560]LogHttp: Warning: 00000A8658115B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.01-06.39.42:600][560]LogHttp: Warning: 00000A8658115B00: libcurl info message cache 1 (Closing connection)
+[2024.10.01-06.39.42:600][561]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2E758C0-410B-8851-9C4B-ED888F8E2950%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=01db8922438d4e11f7e60daaca4b201b%7Ca4be9ba970664134b243e4d9e27f369b%7C56ff27e5-5452-4093-85f4-9feef685d33e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.01-06.39.43:058][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-06.39.43:058][585]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.10.01-06.39.43:058][585]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-06.39.43:060][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.39.43:060][585]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.01-06.39.43:060][585]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.01-06.39.43:066][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.01-06.39.43:079][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.39.43:107][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-06.39.43:107][585]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.10.01-06.39.43:107][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.01-06.39.43:109][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.01-06.39.43:123][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.10.01-06.39.43:452][586]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.10.01-06.39.45:581][675]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-06.39.45:613][675]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-06.39.47:572][750]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BulletBP.BulletBP
+[2024.10.01-06.40.08:031][554]LogSlate: Window 'BulletBP' being destroyed
+[2024.10.01-06.40.08:044][554]LogSlate: Window 'BulletBP' being destroyed
+[2024.10.01-06.40.08:052][554]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-06.40.08:052][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.40.08:128][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.10.01-06.40.09:209][614]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.01-06.40.09:221][614]LogPlayLevel: [PlayLevel] Compiling BulletBP before play...
+[2024.10.01-06.40.09:264][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.10.01-06.40.09:266][614]LogPlayLevel: PlayLevel: Blueprint regeneration took 46 ms (1 blueprints)
+[2024.10.01-06.40.09:266][614]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.10.01-06.40.09:267][614]PIE: Warning: Constraint in 'None' attempting to create a joint between objects that are both static.  No joint created.
+[2024.10.01-06.40.09:269][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001815s)
+[2024.10.01-06.40.09:269][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.001863s)
+[2024.10.01-06.40.09:293][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.10.01-06.40.09:294][614]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.01-06.40.09:295][614]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2024.10.01-06.40.09:301][614]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.10.01-06.40.09:301][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.01-06.40.09:301][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.01-06.40.09:301][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.01-06.40.09:301][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.01-06.40.09:301][614]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.01-06.40.09:301][614]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.01-06.40.09:301][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.01-06.40.09:301][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.01-06.40.09:301][614]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.01-06.40.09:301][614]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.01-06.40.09:301][614]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.01-06.40.09:303][614]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.01-06.40.09:507][614]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.01-06.40.09:507][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.01-06.40.09:507][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.01-06.40.09:507][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.01-06.40.09:509][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.10.01-06.40.09:509][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.10.01-06.40.09:511][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.10.01-06.40.09:511][614]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.10.01-06.40.09:511][614]LogInit: FAudioDevice initialized with ID 16.
+[2024.10.01-06.40.09:511][614]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainLevel'.
+[2024.10.01-06.40.09:511][614]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.10.01-06.40.09:516][614]LogLoad: Game class is 'GameModeBase'
+[2024.10.01-06.40.09:516][614]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.10.01-02.40.09
+[2024.10.01-06.40.09:517][614]LogWorld: Bringing up level for play took: 0.001183
+[2024.10.01-06.40.09:521][614]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.10.01-06.40.09:530][614]PIE: Server logged in
+[2024.10.01-06.40.09:531][614]PIE: Play in editor total start time 0.313 seconds.
+[2024.10.01-06.40.30:290][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-06.40.30:290][850]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.10.01-06.40.30:290][850]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-06.40.30:292][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.40.30:292][850]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.01-06.40.30:292][850]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.01-06.40.30:296][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.01-06.40.30:303][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-06.40.30:328][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-06.40.30:328][850]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.10.01-06.40.30:329][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.10.01-06.40.30:332][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.10.01-06.40.30:342][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.10.01-06.40.30:695][851]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.10.01-06.40.31:955][903]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-06.40.31:989][903]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-06.42.08:721][261]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.10.01-06.43.22:543][ 89]LogLiveCoding: Display: Asteroid.cpp.obj : error LNK2005: "public: __cdecl AAsteroid::AAsteroid(void)" (??0AAsteroid@@QEAA@XZ) already defined in Asteroid (1).cpp.obj
+Asteroid.cpp.obj : error LNK2005: "protected: virtual void __cdecl AAsteroid::BeginPlay(void)" (?BeginPlay@AAsteroid@@MEAAXXZ) already defined in Asteroid (1).cpp.obj
+Asteroid.cpp.obj : error LNK2005: "public: virtual void __cdecl AAsteroid::Tick(float)" (?Tick@AAsteroid@@UEAAXM@Z) already defined in Asteroid (1).cpp.obj
+   Creating library C:\Users\clara\Documents\CIS5680\Asteroids\Asteroids\Binaries\Win64\UnrealEditor-Asteroids.patch_7.lib and object C:\Users\clara\Documents\CIS5680\Asteroids\Asteroids\Binaries\Win64\UnrealEditor-Asteroids.patch_7.exp
+C:\Users\clara\Documents\CIS5680\Asteroids\Asteroids\Binaries\Win64\UnrealEditor-Asteroids.patch_7.exe : fatal error LNK1169: one or more multiply defined symbols found
+[2024.10.01-06.43.22:699][ 89]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.10.01-06.43.22:699][ 89]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.10.01-06.47.06:369][758]LogUObjectHash: Compacting FUObjectHashTables data took  30.06ms
+[2024.10.01-06.47.06:562][758]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainLevel' took 0.502
+[2024.10.01-06.47.06:593][758]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BulletBP] ([2] browsable assets)...
+[2024.10.01-06.47.06:844][758]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BulletBP.BulletBP]
+[2024.10.01-06.47.06:858][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/BulletBP]
+[2024.10.01-06.47.06:858][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulletBP" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/Autosaves/Game/BulletBP_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.10.01-06.47.06:950][758]LogWorldPartition: Can't find class descriptor '/Game/BulletBP.BulletBP_C' for saving '/Game/BulletBP.BulletBP_C'
+[2024.10.01-06.47.06:952][758]LogWorldPartition: Can't find class descriptor '/Game/BulletBP.BulletBP_C' for saving '/Game/BulletBP.BulletBP_C'
+[2024.10.01-06.47.06:955][758]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BulletBP_Auto4
+[2024.10.01-06.47.06:955][758]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/BulletBP_Auto4DFD332CD4FE152006B3EE0A90CAD90E4.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/Autosaves/Game/BulletBP_Auto4.uasset'
+[2024.10.01-06.47.06:972][758]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AsteroidBP] ([2] browsable assets)...
+[2024.10.01-06.47.07:011][758]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AsteroidBP.AsteroidBP]
+[2024.10.01-06.47.07:011][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/AsteroidBP]
+[2024.10.01-06.47.07:011][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AsteroidBP" FILE="../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/Autosaves/Game/AsteroidBP_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.10.01-06.47.07:025][758]LogWorldPartition: Can't find class descriptor '/Game/AsteroidBP.AsteroidBP_C' for saving '/Game/AsteroidBP.AsteroidBP_C'
+[2024.10.01-06.47.07:025][758]LogWorldPartition: Can't find class descriptor '/Game/AsteroidBP.AsteroidBP_C' for saving '/Game/AsteroidBP.AsteroidBP_C'
+[2024.10.01-06.47.07:027][758]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AsteroidBP_Auto4
+[2024.10.01-06.47.07:027][758]LogSavePackage: Moving '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/AsteroidBP_Auto4A42A069E407FD61A902B0EA982679079.tmp' to '../../../../../../Users/clara/Documents/CIS5680/Asteroids/Asteroids/Saved/Autosaves/Game/AsteroidBP_Auto4.uasset'
+[2024.10.01-06.47.07:029][758]LogFileHelpers: Auto-saving content packages took 0.464
+[2024.10.01-07.26.34:537][861]LogDerivedDataCache: C:/Users/clara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.01-08.26.34:537][659]LogDerivedDataCache: C:/Users/clara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.01-09.26.34:543][458]LogDerivedDataCache: C:/Users/clara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.01-10.26.34:537][256]LogDerivedDataCache: C:/Users/clara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.01-11.26.34:539][ 55]LogDerivedDataCache: C:/Users/clara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.01-12.26.34:546][859]LogDerivedDataCache: C:/Users/clara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.01-13.26.34:541][657]LogDerivedDataCache: C:/Users/clara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.01-13.33.21:681][873]LogAutomationController: Ignoring very large delta of 2.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-13.33.30:087][899]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Microphone), InstanceID=1
+[2024.10.01-13.33.30:355][899]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22708
+[2024.10.01-13.33.30:692][900]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{722681a3-7f78-4e83-8742-192707bbaf31}, Name=Speakers (Steam Streaming Microphone)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=71.51
+[2024.10.01-13.33.30:696][900]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.10.01-13.33.30:708][900]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.10.01-14.11.51:247][914]LogAutomationController: Ignoring very large delta of 2296.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-14.11.51:789][917]LogHttp: Warning: 00000A86812D8C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.01-14.11.51:789][917]LogHttp: Warning: 00000A86812D8C00: libcurl info message cache 0 (Too old connection (2350 seconds idle), disconnect it)
+[2024.10.01-14.11.51:792][917]LogHttp: Warning: 00000A86812D8C00: libcurl info message cache 1 (Connection 18 seems to be dead)
+[2024.10.01-14.11.51:792][917]LogHttp: Warning: 00000A86812D8C00: libcurl info message cache 2 (Closing connection)
+[2024.10.01-14.11.51:792][917]LogHttp: Warning: 00000A86812D8C00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.10.01-14.11.51:801][917]LogHttp: Warning: 00000A86812D8C00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.01-14.11.51:805][917]LogHttp: Warning: 00000A86812D8C00: libcurl info message cache 5 (Closing connection)
+[2024.10.01-14.11.51:805][917]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2E758C0-410B-8851-9C4B-ED888F8E2950%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=01db8922438d4e11f7e60daaca4b201b%7Ca4be9ba970664134b243e4d9e27f369b%7C56ff27e5-5452-4093-85f4-9feef685d33e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.01-14.11.54:752][925]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.01-14.11.55:617][928]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [2301 Seconds] waiting for h/w. InstanceID=1
+[2024.10.01-14.11.55:745][928]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22708
+[2024.10.01-14.11.56:081][929]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{722681a3-7f78-4e83-8742-192707bbaf31}, Name=Speakers (Steam Streaming Microphone)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=34.52
+[2024.10.01-14.11.56:082][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.10.01-14.11.56:085][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.10.01-14.11.57:064][930]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:55366'.
+[2024.10.01-14.11.57:083][930]LogUdpMessaging: Display: Added local interface '10.102.197.148' to multicast group '230.0.0.1:6666'
+[2024.10.01-14.12.03:958][938]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.10.01-14.12.08:958][938]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.10.01-14.13.48:742][938]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [103 Seconds] waiting for h/w. InstanceID=1
+[2024.10.01-14.13.51:233][939]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22708
+[2024.10.01-14.13.51:338][939]LogAutomationController: Ignoring very large delta of 114.62 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-14.13.51:799][941]LogHttp: Warning: 00000A86812D8C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.01-14.13.51:799][941]LogHttp: Warning: 00000A86812D8C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.01-14.13.51:799][941]LogHttp: Warning: 00000A86812D8C00: libcurl info message cache 1 (Closing connection)
+[2024.10.01-14.13.51:804][942]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2E758C0-410B-8851-9C4B-ED888F8E2950%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=01db8922438d4e11f7e60daaca4b201b%7Ca4be9ba970664134b243e4d9e27f369b%7C56ff27e5-5452-4093-85f4-9feef685d33e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.01-14.13.52:078][942]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{722681a3-7f78-4e83-8742-192707bbaf31}, Name=Speakers (Steam Streaming Microphone)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=548.44
+[2024.10.01-14.13.52:079][942]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.10.01-14.13.52:095][942]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1

@@ -30,6 +30,12 @@
     <Filter Include="Source\Asteroids">
       <UniqueIdentifier>{1C3A0620-2FE0-3C51-A64A-33026F9E3B18}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Asteroids\Asteroid.cpp">
+      <Filter>Source\Asteroids</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asteroids\Asteroid.h">
+      <Filter>Source\Asteroids</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Asteroids\Asteroids.Build.cs">
       <Filter>Source\Asteroids</Filter>
     </None>
@@ -43,6 +49,12 @@
       <Filter>Source\Asteroids</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Asteroids\Bullet.h">
+      <Filter>Source\Asteroids</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asteroids\Global.cpp">
+      <Filter>Source\Asteroids</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asteroids\Global.h">
       <Filter>Source\Asteroids</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\Asteroids\Ship.cpp">
