@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/MainLevel.umap",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/asteroid_mat.uasset",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ship_mat.uasset",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/ShipBP.uasset",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/prop_asteroid_01.uasset",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/prop_asteroid_01_dff.uasset",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/prop_asteroid_01_nrm.uasset",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/vehicle_playerShip.uasset",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/vehicle_playerShip_orange_dff.uasset",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/vehicle_playerShip_orange_nrm.uasset",
+				"C:/Users/clara/Documents/CIS5680/Asteroids/Asteroids/Content/BulletBP.uasset"
+			]
+		}
+	]
+}

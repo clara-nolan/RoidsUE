@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\clara\\documents\\cis5680\\asteroids\\asteroids\\source\\asteroids\\asteroids.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\clara\\documents\\cis5680\\asteroids\\asteroids\\intermediate\\build\\win64\\x64\\asteroidseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\clara\\documents\\cis5680\\asteroids\\asteroids\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\asteroids\\definitions.asteroids.h",
+            "c:\\users\\clara\\documents\\cis5680\\asteroids\\asteroids\\source\\asteroids\\asteroids.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
